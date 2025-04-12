@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "public_transport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 5493198920, "description": "Embarcadere proche du marché.", "name": "Embarcadere", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 2.4345957, 6.3887313 ] } }
+]
+}

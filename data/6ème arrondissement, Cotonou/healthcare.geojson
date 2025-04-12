@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "healthcare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3260372682, "amenity": "pharmacy", "dispensing": "no", "healthcare": "pharmacy", "name": "Pharmacie Sainte Cecile", "addr:housenumber": null, "addr:street": null, "phone": null, "name:fr": null }, "geometry": { "type": "Point", "coordinates": [ 2.4288576, 6.368684 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4170523800, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie des 4 therapies", "addr:housenumber": "259", "addr:street": "Avenue de la paix", "phone": "+22921323330", "name:fr": null }, "geometry": { "type": "Point", "coordinates": [ 2.4303446, 6.3695053 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4403026193, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Le Nokoué", "addr:housenumber": "480", "addr:street": "Rue 6.042", "phone": null, "name:fr": null }, "geometry": { "type": "Point", "coordinates": [ 2.4248098, 6.3739044 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4426129447, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie Aïdjèdo", "addr:housenumber": null, "addr:street": null, "phone": null, "name:fr": null }, "geometry": { "type": "Point", "coordinates": [ 2.4251266, 6.3833097 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5012731722, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Nouvelle pharmacie Dantokpa", "addr:housenumber": null, "addr:street": null, "phone": null, "name:fr": "Nouvelle pharmacie Dantokpa" }, "geometry": { "type": "Point", "coordinates": [ 2.4338282, 6.3716728 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 6475127588, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie Femi", "addr:housenumber": null, "addr:street": null, "phone": null, "name:fr": null }, "geometry": { "type": "Point", "coordinates": [ 2.4313288, 6.3806769 ] } }
+]
+}

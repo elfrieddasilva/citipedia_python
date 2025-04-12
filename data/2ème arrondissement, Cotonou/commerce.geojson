@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "commerce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 4215436445, "shop": "hairdresser", "addr:housenumber": null, "addr:street": null, "name": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4623503, 6.3743596 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4215808672, "shop": "supermarket", "addr:housenumber": null, "addr:street": null, "name": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4617651, 6.3769425 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4215809383, "shop": "hairdresser", "addr:housenumber": null, "addr:street": null, "name": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4622482, 6.3742936 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4215809644, "shop": "computer", "addr:housenumber": null, "addr:street": null, "name": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4623172, 6.3789424 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4215809744, "shop": "boutique", "addr:housenumber": null, "addr:street": null, "name": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4620631, 6.3791291 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 8420201525, "shop": "mall", "addr:housenumber": "827", "addr:street": "Boulevard Lorys (Rue 12.324)", "name": "Beauté Ronde", "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4584227, 6.3779201 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 8488133621, "shop": "stationery", "addr:housenumber": null, "addr:street": null, "name": "IRFIKA", "phone": "(+229)94444225/90570777" }, "geometry": { "type": "Point", "coordinates": [ 2.4534229, 6.3892711 ] } }
+]
+}

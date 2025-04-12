@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "public_transport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3368156050, "bench": "yes", "bus": "yes", "highway": "bus_stop", "name": "Benafrique", "public_transport": "platform", "shelter": "yes", "tactile_paving": "no" }, "geometry": { "type": "Point", "coordinates": [ 2.3631653, 6.3887694 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "healthcare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3927614977, "amenity": "pharmacy", "healthcare": "pharmacy", "name": "Pharmacie Le remède Sodjeatime", "dispensing": null, "opening_hours": null, "wheelchair": null, "building": null, "name:en": null }, "geometry": { "type": "Point", "coordinates": [ 2.4548273, 6.3676537 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4210159843, "amenity": "pharmacy", "healthcare": "pharmacy", "name": "Pharmacie la Béninoise", "dispensing": "yes", "opening_hours": "24/7", "wheelchair": "yes", "building": null, "name:en": null }, "geometry": { "type": "Point", "coordinates": [ 2.4552305, 6.3667018 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 6297719094, "amenity": "pharmacy", "healthcare": "pharmacy", "name": null, "dispensing": "yes", "opening_hours": null, "wheelchair": null, "building": null, "name:en": null }, "geometry": { "type": "Point", "coordinates": [ 2.444667, 6.3607742 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 418199486, "amenity": "hospital", "healthcare": "hospital", "name": null, "dispensing": null, "opening_hours": null, "wheelchair": null, "building": "yes", "name:en": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4415836, 6.3654031 ], [ 2.4418055, 6.3654385 ], [ 2.4418212, 6.3653414 ], [ 2.4415992, 6.365306 ], [ 2.4415836, 6.3654031 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 787522924, "amenity": "hospital", "healthcare": "hospital", "name": "Centre National Hospitalier et Universitaire de Pneumo-Phtisiologie de Cotonou Lazaret", "dispensing": null, "opening_hours": null, "wheelchair": null, "building": "yes", "name:en": "National Hospital and University Center of Pneumo-Phtisiology of Cotonou Lazaret" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4418494, 6.3648343 ], [ 2.4421151, 6.3648875 ], [ 2.4420723, 6.365099 ], [ 2.441992, 6.3650829 ], [ 2.4420006, 6.3650403 ], [ 2.4418152, 6.3650032 ], [ 2.4418494, 6.3648343 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 805925012, "amenity": "hospital", "healthcare": "hospital", "name": "Hopital Misséssin", "dispensing": null, "opening_hours": null, "wheelchair": null, "building": null, "name:en": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4477744, 6.3706407 ], [ 2.4474837, 6.3704124 ], [ 2.4473843, 6.3705044 ], [ 2.4472276, 6.3705962 ], [ 2.4470409, 6.3706678 ], [ 2.4470101, 6.3714568 ], [ 2.4470914, 6.3714649 ], [ 2.4472865, 6.3712185 ], [ 2.4477744, 6.3706407 ] ] ] } }
+]
+}

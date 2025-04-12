@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "emergency_services",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 5053293522, "amenity": "police", "name": "Commissariat Central", "name:fr": "Commissariat Central", "healthcare": null }, "geometry": { "type": "Point", "coordinates": [ 2.4203647, 6.3621735 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12061584839, "amenity": "clinic", "name": "Clinique médicale REHOBOTH", "name:fr": null, "healthcare": "clinic" }, "geometry": { "type": "Point", "coordinates": [ 2.4098501, 6.365651 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "emergency_services",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "way", "id": 826194371, "amenity": "police", "barrier": "wall", "landuse": "commercial", "healthcare": null, "name": null, "operator:type": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4579228, 6.3578453 ], [ 2.4574292, 6.3577811 ], [ 2.4576294, 6.3571437 ], [ 2.4582741, 6.3550914 ], [ 2.4599261, 6.3549751 ], [ 2.4620613, 6.3548248 ], [ 2.4617609, 6.3582076 ], [ 2.4599108, 6.358034 ], [ 2.4598284, 6.3580263 ], [ 2.4580841, 6.3578661 ], [ 2.4579228, 6.3578453 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 826440250, "amenity": "clinic", "barrier": "wall", "landuse": null, "healthcare": "clinic", "name": "Padre Pio", "operator:type": "private" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4453822, 6.3595647 ], [ 2.4462008, 6.3598585 ], [ 2.4462746, 6.3596555 ], [ 2.4460027, 6.3595579 ], [ 2.4459905, 6.3595915 ], [ 2.4459552, 6.3595789 ], [ 2.4459662, 6.3595487 ], [ 2.4454548, 6.3593652 ], [ 2.4453822, 6.3595647 ] ] ] } }
+]
+}

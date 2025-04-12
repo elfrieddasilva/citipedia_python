@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "employment_centers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 4165480697, "addr:city": "COTONOU", "addr:housenumber": "C/1127", "addr:street": "AGONTINKON", "name": "VISCI TECHNOLOGY", "office": "it", "description": null, "phone": null, "website": null, "addr:place": null }, "geometry": { "type": "Point", "coordinates": [ 2.4108697, 6.3777029 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5564345851, "addr:city": null, "addr:housenumber": null, "addr:street": null, "name": "PEBCo-Bethesda", "office": "financial", "description": "microfinance", "phone": "21327679", "website": "https://bethesdabenin.org/", "addr:place": null }, "geometry": { "type": "Point", "coordinates": [ 2.4153036, 6.3812333 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5764411313, "addr:city": null, "addr:housenumber": null, "addr:street": null, "name": "Alidé", "office": "financial", "description": null, "phone": null, "website": null, "addr:place": null }, "geometry": { "type": "Point", "coordinates": [ 2.400213, 6.3767125 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5799358156, "addr:city": null, "addr:housenumber": null, "addr:street": null, "name": "ONG BETHESDA", "office": "ngo", "description": null, "phone": null, "website": null, "addr:place": null }, "geometry": { "type": "Point", "coordinates": [ 2.4184137, 6.3794113 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 6277961788, "addr:city": null, "addr:housenumber": null, "addr:street": null, "name": "GECA Prospective", "office": "government", "description": null, "phone": null, "website": null, "addr:place": null }, "geometry": { "type": "Point", "coordinates": [ 2.4109428, 6.3818207 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 6908389791, "addr:city": null, "addr:housenumber": null, "addr:street": null, "name": "Benin Semence", "office": "ngo", "description": null, "phone": null, "website": null, "addr:place": null }, "geometry": { "type": "Point", "coordinates": [ 2.4163592, 6.3768699 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 9547752937, "addr:city": "Cotonou", "addr:housenumber": null, "addr:street": "Avenue du Renouveau", "name": "OpenStreetMap Bénin", "office": "ngo", "description": "Association de cartographie libre", "phone": "+22994444225", "website": "www.openstreetmap.bj", "addr:place": "Saint Rita" }, "geometry": { "type": "Point", "coordinates": [ 2.408912, 6.3810757 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 9547752938, "addr:city": "Cotonou", "addr:housenumber": null, "addr:street": "Avenue du Renouveau", "name": "IRFIKA", "office": "company", "description": null, "phone": "94444225", "website": null, "addr:place": "Saint Rita" }, "geometry": { "type": "Point", "coordinates": [ 2.4089406, 6.3810423 ] } }
+]
+}

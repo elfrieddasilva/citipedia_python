@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "emergency_services",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 4902272614, "addr:city": "Cotonou", "amenity": "clinic", "healthcare": "clinic", "name": "Clinique Metole", "building": null, "operator": null, "type": null }, "geometry": { "type": "Point", "coordinates": [ 2.4842632, 6.3644882 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5208527847, "addr:city": null, "amenity": "clinic", "healthcare": "clinic", "name": "Clinique Olivier", "building": null, "operator": null, "type": null }, "geometry": { "type": "Point", "coordinates": [ 2.472577, 6.3680239 ] } },
+{ "type": "Feature", "properties": { "element": "relation", "id": 11307034, "addr:city": null, "amenity": "police", "healthcare": null, "name": "Brigade de protection du Littoral et de la lutte anti-pollution", "building": null, "operator": null, "type": "multipolygon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4849789, 6.3661637 ], [ 2.4856552, 6.3662114 ], [ 2.4856588, 6.3661648 ], [ 2.4856889, 6.3657768 ], [ 2.485009, 6.3657275 ], [ 2.4849789, 6.3661637 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 498886464, "addr:city": "Cotonou", "amenity": "police", "healthcare": null, "name": "Commissariat de Tokplégbé", "building": "yes", "operator": "Etat", "type": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4849874, 6.3655557 ], [ 2.4856486, 6.3656148 ], [ 2.4856731, 6.365208 ], [ 2.4850084, 6.3651489 ], [ 2.4849874, 6.3655557 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 498886467, "addr:city": "Cotonou", "amenity": "police", "healthcare": null, "name": "Brigade de Protection des Mineurs", "building": "yes", "operator": "Etat", "type": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4850679, 6.3651245 ], [ 2.4856906, 6.3651732 ], [ 2.4857256, 6.3645717 ], [ 2.4850924, 6.364516 ], [ 2.4850679, 6.3651245 ] ] ] } }
+]
+}

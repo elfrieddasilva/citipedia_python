@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "emergency_services",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3874525205, "amenity": "police", "name": "Direction de la Police Municipale", "healthcare": null }, "geometry": { "type": "Point", "coordinates": [ 2.4501372, 6.3773535 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5557391404, "amenity": "clinic", "name": "Clinique Sainte Emma", "healthcare": "clinic" }, "geometry": { "type": "Point", "coordinates": [ 2.4417845, 6.3775071 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 7120283022, "amenity": "clinic", "name": "Clinique de la Vue", "healthcare": "clinic" }, "geometry": { "type": "Point", "coordinates": [ 2.448783, 6.3748131 ] } }
+]
+}

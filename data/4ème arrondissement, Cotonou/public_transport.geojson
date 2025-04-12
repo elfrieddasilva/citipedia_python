@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "public_transport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 4209991176, "public_transport": "station", "bus": null, "highway": null, "name:en": null }, "geometry": { "type": "Point", "coordinates": [ 2.4472185, 6.3717031 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5110316511, "public_transport": "platform", "bus": "yes", "highway": "bus_stop", "name:en": null }, "geometry": { "type": "Point", "coordinates": [ 2.4518932, 6.3718865 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 7148285985, "public_transport": "platform", "bus": "yes", "highway": "bus_stop", "name:en": "Minibusses to Porto Novo" }, "geometry": { "type": "Point", "coordinates": [ 2.4564018, 6.3661824 ] } }
+]
+}

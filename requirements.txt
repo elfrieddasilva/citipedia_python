@@ -1,0 +1,13 @@
+flask~=3.1.0
+matplotlib~=3.10.1
+pandas~=2.2.3
+geopandas~=1.0.1
+osmnx~=2.0.2
+shapely~=2.1.0
+geopandas
+pandas
+networkx~=3.4.2
+matplotlib
+scikit-learn~=1.6.1
+geopy~=2.4.1
+requests~=2.32.3

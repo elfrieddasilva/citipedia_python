@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "public_transport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 2488243368, "bus": "yes", "highway": "bus_stop", "public_transport": "platform", "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 2.3884936, 6.3772293 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3876477262, "bus": "yes", "highway": "bus_stop", "public_transport": "platform", "amenity": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 2.392594, 6.377082 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 836143299, "bus": "yes", "highway": null, "public_transport": "station", "amenity": "bus_station", "name": "Gare routière" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.3797202, 6.3803938 ], [ 2.3802781, 6.3805618 ], [ 2.3802888, 6.3801246 ], [ 2.3800528, 6.380034 ], [ 2.3798141, 6.379986 ], [ 2.3797202, 6.3803938 ] ] ] } }
+]
+}

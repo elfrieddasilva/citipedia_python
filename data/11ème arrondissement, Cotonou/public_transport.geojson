@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "public_transport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 4345783393, "amenity": "bus_station", "bus": "yes", "public_transport": "station", "departure": null, "departure_per_day": null, "destination_place": null, "destination_type": null, "internet_access": null, "operator": null, "highway": null, "name": null, "shelter": null }, "geometry": { "type": "Point", "coordinates": [ 2.4100231, 6.3706878 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4615675696, "amenity": "bus_station", "bus": "yes", "public_transport": "station", "departure": "journalier", "departure_per_day": "1", "destination_place": "Natitingou", "destination_type": "nationale", "internet_access": "no", "operator": "privé", "highway": null, "name": null, "shelter": null }, "geometry": { "type": "Point", "coordinates": [ 2.4092451, 6.3703509 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4711881586, "amenity": null, "bus": "yes", "public_transport": "platform", "departure": null, "departure_per_day": null, "destination_place": null, "destination_type": null, "internet_access": null, "operator": null, "highway": "bus_stop", "name": "Arrêt de bus", "shelter": "yes" }, "geometry": { "type": "Point", "coordinates": [ 2.4118407, 6.3633423 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4711888326, "amenity": null, "bus": "yes", "public_transport": "platform", "departure": null, "departure_per_day": null, "destination_place": null, "destination_type": null, "internet_access": null, "operator": null, "highway": "bus_stop", "name": "Arrêt de bus", "shelter": "yes" }, "geometry": { "type": "Point", "coordinates": [ 2.4119944, 6.3632824 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 6132405325, "amenity": "bus_station", "bus": "yes", "public_transport": "station", "departure": null, "departure_per_day": null, "destination_place": null, "destination_type": null, "internet_access": null, "operator": null, "highway": null, "name": "Baobab Express", "shelter": null }, "geometry": { "type": "Point", "coordinates": [ 2.4150833, 6.3627052 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 7823827585, "amenity": null, "bus": "yes", "public_transport": "platform", "departure": null, "departure_per_day": null, "destination_place": null, "destination_type": null, "internet_access": null, "operator": null, "highway": "bus_stop", "name": "CARREFOUR CICA TOYOTA", "shelter": null }, "geometry": { "type": "Point", "coordinates": [ 2.3897556, 6.3770932 ] } }
+]
+}

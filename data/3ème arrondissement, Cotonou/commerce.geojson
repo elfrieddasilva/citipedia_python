@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "commerce",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 2483263867, "name": "Miss Marie-O-G", "shop": "clothes", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4466398, 6.3841729 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3874525416, "name": "Bénin - Beni Informatic", "shop": "computer", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4418517, 6.3746782 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3906984348, "name": "Tendance Actuelle Akpakpa", "shop": "sewing", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4404575, 6.3812116 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4173536420, "name": "Poissonnerie Houetchenou", "shop": "seafood", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4411205, 6.3811886 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4173536422, "name": null, "shop": "variety_store", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4414705, 6.3799707 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4173539075, "name": null, "shop": "glaziery", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.440918, 6.38082 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4173539076, "name": "MTN", "shop": "mobile_phone", "addr:housenumber": "2236", "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4412969, 6.3805981 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4173539077, "name": "First Lady", "shop": "fashion", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4414718, 6.3800273 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4173539213, "name": "Big Boss Land", "shop": "clothes", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4414819, 6.3801053 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4173539215, "name": "Grâce Divine", "shop": "hairdresser", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4394359, 6.3795918 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4209991168, "name": "CTPS", "shop": "hardware", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4508932, 6.3721776 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4209991170, "name": "Soft Meubles", "shop": "furniture", "addr:housenumber": null, "opening_hours": "Mo-Fr 08:00-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00", "wheelchair": "yes" }, "geometry": { "type": "Point", "coordinates": [ 2.4461953, 6.372079 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4209991171, "name": "TVSAT", "shop": "variety_store", "addr:housenumber": null, "opening_hours": "08:30-12:30,15:30-20:00", "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.445337, 6.3720603 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4228568611, "name": "PADME", "shop": "pawnbroker", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.44677, 6.3769979 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4228568615, "name": "Zoom Services", "shop": "photo", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4471093, 6.3798967 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4228573039, "name": null, "shop": "supermarket", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.447106, 6.380048 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5557518224, "name": "Pain du monde", "shop": "bakery", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4423196, 6.3736291 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 11492326005, "name": "Ets Wayd", "shop": "fabric", "addr:housenumber": null, "opening_hours": null, "wheelchair": null }, "geometry": { "type": "Point", "coordinates": [ 2.4424232, 6.3727505 ] } }
+]
+}

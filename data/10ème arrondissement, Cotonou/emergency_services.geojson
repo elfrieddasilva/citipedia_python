@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "emergency_services",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 2499528284, "amenity": "clinic", "healthcare": "clinic", "name": "Clinique Cega", "source": "GPS;survey", "operator:type": null, "addr:housenumber": null, "addr:street": null }, "geometry": { "type": "Point", "coordinates": [ 2.3909428, 6.3787742 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 2605942908, "amenity": "clinic", "healthcare": "clinic", "name": "Clinique St Vincent de Paul", "source": "GPS;survey", "operator:type": "private", "addr:housenumber": null, "addr:street": null }, "geometry": { "type": "Point", "coordinates": [ 2.3838435, 6.3851686 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 2605982145, "amenity": "clinic", "healthcare": "clinic", "name": "Clinique Fandinan", "source": "GPS", "operator:type": "private", "addr:housenumber": null, "addr:street": null }, "geometry": { "type": "Point", "coordinates": [ 2.381949, 6.3825642 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3878035833, "amenity": "clinic", "healthcare": "clinic", "name": "Polyclinique de L'amitié - Le Bon Samaritain", "source": null, "operator:type": null, "addr:housenumber": null, "addr:street": null }, "geometry": { "type": "Point", "coordinates": [ 2.3797211, 6.3808052 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5652564774, "amenity": "clinic", "healthcare": "clinic", "name": "St Antoine de Padoue", "source": null, "operator:type": null, "addr:housenumber": "3037", "addr:street": "94639561" }, "geometry": { "type": "Point", "coordinates": [ 2.3937383, 6.3906633 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "public_transport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 4550557745, "amenity": "bus_station", "bus": "yes", "departure": "journalier", "departure_per_day": "1", "destination_type": "internationale", "public_transport": "station", "name": null, "barrier": null, "landuse": null }, "geometry": { "type": "Point", "coordinates": [ 2.4404915, 6.372212 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 6042617893, "amenity": "bus_station", "bus": "yes", "departure": null, "departure_per_day": null, "destination_type": null, "public_transport": "station", "name": "Cross country", "barrier": null, "landuse": null }, "geometry": { "type": "Point", "coordinates": [ 2.4449767, 6.3719883 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 459142491, "amenity": "bus_station", "bus": "yes", "departure": null, "departure_per_day": null, "destination_type": null, "public_transport": "station", "name": null, "barrier": "wall", "landuse": "commercial" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4406437, 6.3725206 ], [ 2.4402816, 6.3724979 ], [ 2.4402803, 6.3722353 ], [ 2.4402749, 6.3719701 ], [ 2.4407269, 6.3720341 ], [ 2.4406437, 6.3725206 ] ] ] } }
+]
+}

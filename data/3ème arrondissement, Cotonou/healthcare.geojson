@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "healthcare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3611667027, "amenity": "pharmacy", "dispensing": "yes", "healthcare": "pharmacy", "name": "Pharmacie Saint Raphaël", "source": "gps;survey" }, "geometry": { "type": "Point", "coordinates": [ 2.442654, 6.3720794 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3874525204, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie Midombo", "source": null }, "geometry": { "type": "Point", "coordinates": [ 2.4417953, 6.3774115 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3874525417, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie Adetona", "source": null }, "geometry": { "type": "Point", "coordinates": [ 2.4487, 6.3770007 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4228568612, "amenity": "pharmacy", "dispensing": "yes", "healthcare": "pharmacy", "name": "Pharmacie Sacré Coeur", "source": null }, "geometry": { "type": "Point", "coordinates": [ 2.4466923, 6.374271 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4228568613, "amenity": "pharmacy", "dispensing": "yes", "healthcare": "pharmacy", "name": "Pharmacie Segbeya", "source": null }, "geometry": { "type": "Point", "coordinates": [ 2.4467801, 6.3812302 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 787464499, "amenity": "hospital", "dispensing": null, "healthcare": "hospital", "name": "Hopital de Zone Ayélawadjè", "source": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4497075, 6.378421 ], [ 2.4497072, 6.3778869 ], [ 2.450171, 6.3778866 ], [ 2.4501713, 6.3784207 ], [ 2.4497075, 6.378421 ] ] ] } }
+]
+}

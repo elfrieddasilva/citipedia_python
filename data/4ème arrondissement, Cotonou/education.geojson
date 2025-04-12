@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "education",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 4208098198, "amenity": "school", "name": "CEG AKPAKPA CENTRE", "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00", "wheelchair": "yes", "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 2.4471815, 6.3691206 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 8853563343, "amenity": "university", "name": "Irgib Africa University", "opening_hours": null, "wheelchair": null, "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 2.4517195, 6.3650313 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 420919483, "amenity": "school", "name": null, "opening_hours": null, "wheelchair": null, "barrier": "wall" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4505446, 6.369123 ], [ 2.4516036, 6.3677673 ], [ 2.4508165, 6.3671168 ], [ 2.4497474, 6.3684752 ], [ 2.4505446, 6.369123 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 797904878, "amenity": "university", "name": null, "opening_hours": null, "wheelchair": null, "barrier": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4463535, 6.3664966 ], [ 2.4465433, 6.3666547 ], [ 2.4466837, 6.3664883 ], [ 2.446494, 6.3663302 ], [ 2.4463535, 6.3664966 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 797906871, "amenity": "university", "name": null, "opening_hours": null, "wheelchair": null, "barrier": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4512186, 6.371529 ], [ 2.4513849, 6.3716557 ], [ 2.4516316, 6.3715464 ], [ 2.4513768, 6.3713518 ], [ 2.4512186, 6.371529 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 822835922, "amenity": "school", "name": null, "opening_hours": null, "wheelchair": null, "barrier": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.440605, 6.3701059 ], [ 2.4413265, 6.3702285 ], [ 2.4414861, 6.3693368 ], [ 2.4407914, 6.3691982 ], [ 2.440605, 6.3701059 ] ] ] } }
+]
+}

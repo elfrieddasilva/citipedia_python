@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "emergency_services",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3260385661, "amenity": "clinic", "healthcare": "clinic", "name": "Clinique les Graces", "addr:housenumber": null, "phone": null, "addr:street": null }, "geometry": { "type": "Point", "coordinates": [ 2.420449, 6.364501 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5304505435, "amenity": "clinic", "healthcare": "clinic", "name": "Clinique Centrale", "addr:housenumber": "1013", "phone": "+22921321997", "addr:street": null }, "geometry": { "type": "Point", "coordinates": [ 2.4214123, 6.3627373 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5641758321, "amenity": "clinic", "healthcare": "clinic", "name": "Clinique Saint Clément", "addr:housenumber": null, "phone": null, "addr:street": null }, "geometry": { "type": "Point", "coordinates": [ 2.4216658, 6.3638991 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 7124461217, "amenity": "clinic", "healthcare": "clinic", "name": "Cabinet de Cardiologie", "addr:housenumber": "300", "phone": "97015894", "addr:street": "Rue des missions" }, "geometry": { "type": "Point", "coordinates": [ 2.4262933, 6.3670517 ] } }
+]
+}

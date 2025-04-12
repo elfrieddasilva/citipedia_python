@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "education",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3778428810, "amenity": "school", "name": "CEG Sainte Rita", "school:FR": "secondaire", "source": "bing;local knowledge", "addr:street": null, "phone": null, "barrier": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ 2.4148976, 6.37721 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4351623418, "amenity": "school", "name": "Collège de la paix", "school:FR": null, "source": null, "addr:street": null, "phone": null, "barrier": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ 2.4173863, 6.3827741 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5799359299, "amenity": "school", "name": "ISEG", "school:FR": null, "source": null, "addr:street": "rue 8.006", "phone": "66517650", "barrier": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ 2.4160568, 6.3779453 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5799359300, "amenity": "school", "name": "Complexe scolaire sikè-nord", "school:FR": null, "source": null, "addr:street": null, "phone": "21322818", "barrier": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ 2.4141154, 6.3781316 ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 272080931, "amenity": "school", "name": null, "school:FR": null, "source": null, "addr:street": null, "phone": null, "barrier": "wall", "building": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4136881, 6.3775938 ], [ 2.4148622, 6.3785036 ], [ 2.416217, 6.3767231 ], [ 2.4150642, 6.3758398 ], [ 2.4136881, 6.3775938 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 759625924, "amenity": "school", "name": "Complexe scolère Baptiste", "school:FR": null, "source": null, "addr:street": null, "phone": null, "barrier": null, "building": "school" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4104838, 6.3737092 ], [ 2.4103984, 6.3738206 ], [ 2.4104123, 6.3738311 ], [ 2.410401, 6.3738459 ], [ 2.4104351, 6.3738716 ], [ 2.4104463, 6.373857 ], [ 2.410565, 6.3739467 ], [ 2.4105537, 6.3739615 ], [ 2.4105896, 6.3739886 ], [ 2.4106863, 6.3738624 ], [ 2.4104838, 6.3737092 ] ] ] } },
+{ "type": "Feature", "properties": { "element": "way", "id": 824468351, "amenity": "school", "name": null, "school:FR": null, "source": null, "addr:street": null, "phone": null, "barrier": "wall", "building": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4037137, 6.3797213 ], [ 2.4048664, 6.3806274 ], [ 2.4051539, 6.3802677 ], [ 2.4040068, 6.3793546 ], [ 2.4037137, 6.3797213 ] ] ] } }
+]
+}

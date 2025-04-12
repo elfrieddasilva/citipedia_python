@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "healthcare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 3260370223, "amenity": "pharmacy", "dispensing": "no", "healthcare": "pharmacy", "name": "Pharmacie Adéchina", "source:name": "survey", "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4206788, 6.366164 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3260372492, "amenity": "pharmacy", "dispensing": "no", "healthcare": "pharmacy", "name": "pharmacie forum santé", "source:name": "survey", "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4241742, 6.3674063 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3263349461, "amenity": "pharmacy", "dispensing": "no", "healthcare": "pharmacy", "name": "Pharmacie Marina", "source:name": null, "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4166009, 6.3705625 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 3934003903, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie Alafia", "source:name": null, "addr:housenumber": "1102", "phone": "21323442" }, "geometry": { "type": "Point", "coordinates": [ 2.4153944, 6.3690873 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4176026466, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Le Conseil", "source:name": null, "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4209817, 6.3704035 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4351625280, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie Nouvelle", "source:name": null, "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4205092, 6.3785779 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4402794893, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Espace beauté", "source:name": null, "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.424243, 6.3739488 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 4431340039, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie de l’étoille", "source:name": null, "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4121136, 6.369767 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5466032634, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Para Pharmacie Adechina", "source:name": null, "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.420072, 6.3670428 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 5864442788, "amenity": "pharmacy", "dispensing": null, "healthcare": "pharmacy", "name": "Pharmacie Amen", "source:name": null, "addr:housenumber": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 2.4166272, 6.3659368 ] } }
+]
+}
