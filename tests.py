@@ -6,7 +6,8 @@ BASE_URL = "http://127.0.0.1:5000/best_path"
 def test_best_path():
     params = {
         "dest_lat": 6.3912755,
-        "dest_lng": 2.3859534027275098
+        "dest_lnhg": 2.3859534027275098,
+        "transportation": "bike"
     }
 
     response = requests.get(BASE_URL, params=params)

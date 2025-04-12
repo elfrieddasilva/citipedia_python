@@ -1,11 +1,13 @@
 import pandas as pd
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from functools import lru_cache
 
 from geospacial_utils import get_optimal_path, find_best_place_to_live, get_coordinates
 from livability_compute import gen_geodataframe_from_saved_data, gen_livability_index_for_data_frame
 
 app = Flask(__name__)
+CORS(app)
 df = pd.read_csv("cotonou_features_data.csv")
 gdf_admin = gen_geodataframe_from_saved_data()
 gdf_index = gen_livability_index_for_data_frame(df)
@@ -19,7 +21,7 @@ def get_optimal_path_cached(origin_lat, origin_lng, dest_lat, dest_lng, network_
     return get_optimal_path((origin_lat, origin_lng), (dest_lat, dest_lng), network_type=network_type)
 
 
-@app.route("/best_path", methods=["GET"])
+@app.route("/best_location", methods=["GET"])
 def best_path():
     dest_lat = request.args.get("dest_lat", type=float)
     dest_lng = request.args.get("dest_lng", type=float)
